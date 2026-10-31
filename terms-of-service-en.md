@@ -42,7 +42,7 @@ The Bot may send relevant queries to third-party APIs to fulfil a command. Those
 
 ## 6. Privacy
 
-Use of the Bot is also governed by the [Zetharius Privacy Policy]([[PUBLIC PRIVACY POLICY URL]](https://github.com/ZethariusBot/Zetharius-Discord-Bot/blob/main/privacy-policy-en.md)). It describes the information processed, purposes, storage, retention, and how to make privacy requests. Do not submit passwords, payment credentials, or sensitive personal information to the Bot.
+Use of the Bot is also governed by the [Zetharius Privacy Policy](https://github.com/ZethariusBot/Zetharius-Discord-Bot/blob/main/privacy-policy-en.md)). It describes the information processed, purposes, storage, retention, and how to make privacy requests. Do not submit passwords, payment credentials, or sensitive personal information to the Bot.
 
 ## 7. Availability, suspension, and termination
 
