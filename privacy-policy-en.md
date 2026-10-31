@@ -41,7 +41,7 @@ The operator does not sell Bot data or use it for advertising. Access to stored 
 - Killboard event IDs and panel IDs are kept while needed to prevent duplicate posts and maintain the related panel; they may be replaced or cleared during maintenance.
 - Hosting backups and operational logs, if enabled by the hosting provider or operator, may have separate retention periods: Backups and hosting logs: The hosting provider may retain server backups and operational logs for up to 2 years. These records are accessible only to the hosting provider and the Bot operator and are deleted according to the provider’s retention schedule.
 
-The Bot does not currently provide a self-service command that deletes every category of a user’s data. To request access, correction, deletion, or restriction, contact **[CONTACT EMAIL]** and include your Discord user ID, the server, and the relevant feature. The operator may need to verify the request and may retain information where a legal obligation or other applicable legal ground requires it. Data in Discord messages or Discord’s own systems may need to be handled separately under Discord’s processes.
+The Bot does not currently provide a self-service command that deletes every category of a user’s data. To request access, correction, deletion, or restriction, contact Zetharius@gmail.com and include your Discord user ID, the server, and the relevant feature. The operator may need to verify the request and may retain information where a legal obligation or other applicable legal ground requires it. Data in Discord messages or Discord’s own systems may need to be handled separately under Discord’s processes.
 
 ## 6. Your choices and rights
 
@@ -59,7 +59,7 @@ The Bot is intended for use in Discord communities by people who are permitted t
 
 ## 9. Changes and contact
 
-This policy may be updated when the Bot’s features or data practices change. The current version will be published at **[PUBLIC PRIVACY POLICY URL]**. Material changes should be communicated through an appropriate community channel.
+This policy may be updated when the Bot’s features or data practices change. The current version will be published at (https://e-z.bio/zethar) or official discord server ( https://discord.gg/DpXhx9m8jE). Material changes should be communicated through an appropriate community channel.
 
 Privacy contact: zetharius@gmail.com
 
