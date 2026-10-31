@@ -2,11 +2,9 @@
 
 **Last updated: 31 October 2026**
 
-> **Before publishing:** Replace every bracketed placeholder with accurate details. In particular, identify the real person or organisation operating the Bot and provide a monitored contact email. Confirm that the listed features and data practices still match the deployed version.
-
 ## 1. Who operates the Bot
 
-The Zetharius Discord bot (the **“Bot”**) is operated by **[YOUR FULL LEGAL NAME OR ORGANISATION]**, located in **[COUNTRY]**. For privacy questions or requests, contact **[CONTACT EMAIL]**. This operator is the controller for personal data processed through Bot features under the operator’s control.
+The Zetharius Discord bot  is operated by Borys Otremba , located in Poland. For privacy questions or requests, contact zetharius@gmail.com. This operator is the controller for personal data processed through Bot features under the operator’s control.
 
 ## 2. Data the Bot processes
 
@@ -25,7 +23,7 @@ The Bot does not intentionally collect Discord passwords, payment card details, 
 
 ## 3. Why and on what basis data is processed
 
-The operator processes the data above to provide the Bot’s requested features, maintain sign-ups and settlement records, prevent duplicate event posts, enforce permissions, and keep the Bot reliable. Depending on the feature and context, the operator’s intended legal basis is **[CONFIRM AND SELECT THE APPLICABLE GDPR BASIS, SUCH AS LEGITIMATE INTERESTS IN PROVIDING AND SECURING THE COMMUNITY BOT, OR PERFORMANCE OF A USER-REQUESTED SERVICE]**. Where consent is relied on, it may be withdrawn at any time; withdrawal does not affect prior lawful processing.
+The operator processes the data above to provide the Bot’s requested features, maintain sign-ups and settlement records, prevent duplicate event posts, enforce permissions, and keep the Bot reliable. Depending on the feature and context, the operator’s intended legal basis is The Operator processes this data on the basis of the Operator’s legitimate interests (Article 6(1)(f) GDPR) in operating, maintaining, and securing the Bot and providing its community features, including event sign-ups and related in-game settlement records. The Operator has considered these interests against users’ rights and expects to process only data reasonably necessary for these purposes.. Where consent is relied on, it may be withdrawn at any time; withdrawal does not affect prior lawful processing.
 
 Do not publish this policy until the operator has confirmed the applicable legal basis and any legitimate interests being pursued.
 
@@ -41,7 +39,7 @@ The operator does not sell Bot data or use it for advertising. Access to stored 
 - Active content and settlement records are kept while needed to organise the event and account for its silver. A completed event’s Discord card is removed after 2 hours. Ordinary completed event records are then removed from the Bot’s content store. Guild-settlement records awaiting or documenting settlement may remain in the guild-settlement panel and its records until cleared by an authorised administrator or no longer needed.
 - Albion guild-history records are kept to show the history created by profile lookups, until removed by the operator or following a valid request.
 - Killboard event IDs and panel IDs are kept while needed to prevent duplicate posts and maintain the related panel; they may be replaced or cleared during maintenance.
-- Hosting backups and operational logs, if enabled by the hosting provider or operator, may have separate retention periods: **[DESCRIBE ANY BACKUPS OR LOGS AND THEIR RETENTION, OR REMOVE THIS SENTENCE IF NONE ARE KEPT]**.
+- Hosting backups and operational logs, if enabled by the hosting provider or operator, may have separate retention periods: Backups and hosting logs: The hosting provider may retain server backups and operational logs for up to 2 years. These records are accessible only to the hosting provider and the Bot operator and are deleted according to the provider’s retention schedule.
 
 The Bot does not currently provide a self-service command that deletes every category of a user’s data. To request access, correction, deletion, or restriction, contact **[CONTACT EMAIL]** and include your Discord user ID, the server, and the relevant feature. The operator may need to verify the request and may retain information where a legal obligation or other applicable legal ground requires it. Data in Discord messages or Discord’s own systems may need to be handled separately under Discord’s processes.
 
@@ -57,13 +55,13 @@ The operator uses reasonable measures appropriate to a small community Bot, incl
 
 ## 8. Children
 
-The Bot is intended for use in Discord communities by people who are permitted to use Discord under Discord’s terms and applicable age laws. The Bot is not designed to collect children’s personal data. If you believe a child has provided personal data through the Bot, contact **[CONTACT EMAIL]**.
+The Bot is intended for use in Discord communities by people who are permitted to use Discord under Discord’s terms and applicable age laws. The Bot is not designed to collect children’s personal data. If you believe a child has provided personal data through the Bot, contact zetharius@gmail.com.
 
 ## 9. Changes and contact
 
 This policy may be updated when the Bot’s features or data practices change. The current version will be published at **[PUBLIC PRIVACY POLICY URL]**. Material changes should be communicated through an appropriate community channel.
 
-Privacy contact: **[CONTACT EMAIL]**
+Privacy contact: zetharius@gmail.com
 
 ## 10. Related policies
 
