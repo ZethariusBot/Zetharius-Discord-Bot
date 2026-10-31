@@ -2,11 +2,9 @@
 
 **Last updated: 31 October 2026**
 
-> **Before publishing:** Replace every bracketed placeholder. These terms are a practical draft for the community Bot, not a substitute for advice about the operator’s particular legal obligations.
-
 ## 1. About these Terms
 
-These Terms govern your use of the Zetharius Discord bot (the **“Bot”**), operated by **[YOUR FULL LEGAL NAME OR ORGANISATION]** (**“Operator”**, **“we”**, **“us”**). Contact: **[CONTACT EMAIL]**. By using the Bot, you agree to these Terms and must also follow Discord’s Terms of Service, Community Guidelines, and any applicable game or third-party service terms.
+These Terms govern your use of the Zetharius Discord bot, operated by Borys Otremba . Contact: Zetharius@gmail.com. By using the Bot, you agree to these Terms and must also follow Discord’s Terms of Service, Community Guidelines, and any applicable game or third-party service terms.
 
 If you do not agree, do not use the Bot and ask a server administrator to remove it from the server.
 
@@ -44,7 +42,7 @@ The Bot may send relevant queries to third-party APIs to fulfil a command. Those
 
 ## 6. Privacy
 
-Use of the Bot is also governed by the [Zetharius Privacy Policy]([PUBLIC PRIVACY POLICY URL]). It describes the information processed, purposes, storage, retention, and how to make privacy requests. Do not submit passwords, payment credentials, or sensitive personal information to the Bot.
+Use of the Bot is also governed by the [Zetharius Privacy Policy]([[PUBLIC PRIVACY POLICY URL]](https://github.com/ZethariusBot/Zetharius-Discord-Bot/blob/main/privacy-policy-en.md)). It describes the information processed, purposes, storage, retention, and how to make privacy requests. Do not submit passwords, payment credentials, or sensitive personal information to the Bot.
 
 ## 7. Availability, suspension, and termination
 
@@ -58,13 +56,13 @@ Nothing in these Terms excludes or limits a right or liability that cannot lawfu
 
 ## 9. Changes to these Terms
 
-We may update these Terms when the Bot or applicable requirements change. The current version will be available at **[PUBLIC TERMS OF SERVICE URL]**. For material changes, we will use reasonable means to notify users, such as a notice in the relevant Discord server. Continued use after an updated version takes effect means you accept the updated Terms, to the extent permitted by law.
+We may update these Terms when the Bot or applicable requirements change. The current version will be available at(https://e-z.bio/zethar) or Official Discord Server (https://discord.gg/DpXhx9m8jE). For material changes, we will use reasonable means to notify users, such as a notice in the relevant Discord server. Continued use after an updated version takes effect means you accept the updated Terms, to the extent permitted by law.
 
 ## 10. Governing law and contact
 
-These Terms are governed by the laws of **[COUNTRY / JURISDICTION]**, without limiting any mandatory consumer protections that apply to you. The competent courts are those determined under applicable law.
+These Terms are governed by the laws of Poland, without limiting any mandatory consumer protections that apply to you. The competent courts are those determined under applicable law.
 
-Questions about these Terms: **[CONTACT EMAIL]**
+Questions about these Terms: Zetharius@gmail.com
 
 ## 11. Related terms
 
