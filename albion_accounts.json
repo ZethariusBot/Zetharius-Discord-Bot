@@ -1,0 +1,55 @@
+{
+  "konta": {
+    "1428016568801169430:545280588266078211": {
+      "zarobione": 0,
+      "wyplacone": 0,
+      "transakcje": [],
+      "korekty_reset": 0
+    },
+    "1428016568801169430:577838450703728643": {
+      "zarobione": 0,
+      "wyplacone": 0,
+      "transakcje": [],
+      "korekty_reset": 0
+    },
+    "1428016568801169430:662352889234194465": {
+      "zarobione": 0,
+      "wyplacone": 0,
+      "transakcje": [],
+      "korekty_reset": 0
+    },
+    "1428016568801169430:1357986195585503284": {
+      "zarobione": 0,
+      "wyplacone": 0,
+      "transakcje": [],
+      "korekty_reset": 0
+    },
+    "1428016568801169430:1449745783657332797": {
+      "zarobione": 0,
+      "wyplacone": 0,
+      "transakcje": [],
+      "korekty_reset": 0
+    }
+  },
+  "panele": {
+    "1428016568801169430": {
+      "channel_id": 1429401970975707246,
+      "message_id": 1565411611789758637
+    },
+    "1428016568801169430:1429186520778276874": {
+      "guild_id": 1428016568801169430,
+      "channel_id": 1429186520778276874,
+      "message_id": 1565425831277502515
+    }
+  },
+  "szablony_rol": {
+    "1428016568801169430": {
+      "Grupówki": {
+        "Tank": 1,
+        "Heal": 1,
+        "Sc": 1,
+        "Rdps": 2
+      }
+    }
+  }
+}
